@@ -10,9 +10,10 @@ if (!CLIENT_ID || !ACCESS_TOKEN) {
   throw new Error("Missing SIMKL_CLIENT_ID or SIMKL_ACCESS_TOKEN secrets.");
 }
 
-const BASE = "https://api.simkl.com/sync/all-items";
+const STATUSES = ["watching", "completed", "hold", "plantowatch"];
+const TYPES = ["shows", "movies", "anime"];
 
-function endpoint(type) {
+function makeUrl(type, status) {
   const params = new URLSearchParams({
     client_id: CLIENT_ID,
     "app-name": APP_NAME,
@@ -21,47 +22,31 @@ function endpoint(type) {
     next_watch_info: "yes"
   });
 
-  return `${BASE}/${type}?${params.toString()}`;
+  return `https://api.simkl.com/sync/all-items/${type}/${status}?${params.toString()}`;
 }
 
-async function getSimkl(type) {
-  const response = await fetch(endpoint(type), {
+async function getItems(type, status) {
+  const response = await fetch(makeUrl(type, status), {
     headers: {
-      "Authorization": `Bearer ${ACCESS_TOKEN}`,
+      Authorization: `Bearer ${ACCESS_TOKEN}`,
       "User-Agent": `${APP_NAME}/${APP_VERSION}`
     }
   });
 
   if (!response.ok) {
-    throw new Error(`Simkl ${type} request failed: ${response.status}`);
+    const text = await response.text();
+    throw new Error(`${type}/${status} failed: ${response.status} ${text}`);
   }
 
-  return response.json();
-}
+  const data = await response.json();
 
-function flattenItems(data, type) {
-  const out = [];
+  if (!Array.isArray(data)) return [];
 
-  if (Array.isArray(data)) {
-    data.forEach(item => out.push({ ...item, simkl_type: type }));
-    return out;
-  }
-
-  if (!data || typeof data !== "object") return out;
-
-  Object.entries(data).forEach(([status, value]) => {
-    if (Array.isArray(value)) {
-      value.forEach(item => {
-        out.push({
-          ...item,
-          status,
-          simkl_type: type
-        });
-      });
-    }
-  });
-
-  return out;
+  return data.map(item => ({
+    ...item,
+    simkl_type: type,
+    simkl_status: status
+  }));
 }
 
 function getMedia(item) {
@@ -73,89 +58,84 @@ function getTitle(item) {
   return media.title || media.name || item.title || item.name || "unknown title";
 }
 
-function getTypeLabel(item) {
-  if (item.simkl_type === "shows") return "tv show";
-  if (item.simkl_type === "movies") return "movie";
-  if (item.simkl_type === "anime") return "anime";
-  return "watching";
-}
+function findDate(item) {
+  const candidates = [];
 
-function collectDates(obj, dates = []) {
-  if (!obj || typeof obj !== "object") return dates;
+  function walk(obj) {
+    if (!obj || typeof obj !== "object") return;
 
-  for (const [key, value] of Object.entries(obj)) {
-    if (
-      typeof value === "string" &&
-      /watched|last/i.test(key) &&
-      !value.startsWith("1970-")
-    ) {
-      const time = Date.parse(value);
-      if (!Number.isNaN(time)) {
-        dates.push(value);
+    for (const [key, value] of Object.entries(obj)) {
+      if (typeof value === "string") {
+        const looksLikeDate =
+          /watched|last|updated|added|aired/i.test(key) &&
+          !value.startsWith("1970-") &&
+          !Number.isNaN(Date.parse(value));
+
+        if (looksLikeDate) candidates.push(value);
+      }
+
+      if (value && typeof value === "object") {
+        walk(value);
       }
     }
+  }
 
-    if (value && typeof value === "object") {
-      collectDates(value, dates);
+  walk(item);
+
+  return candidates.sort((a, b) => new Date(b) - new Date(a))[0] || "";
+}
+
+function getSubtitle(item) {
+  if (item.simkl_status === "watching") {
+    const next = item.next_to_watch_info;
+
+    if (next) {
+      const season = next.season ? `S${String(next.season).padStart(2, "0")}` : "";
+      const episode = next.episode ? `E${String(next.episode).padStart(2, "0")}` : "";
+      const ep = `${season}${episode}`;
+      return ep ? `next ${ep}` : "currently watching";
     }
+
+    return "currently watching";
   }
 
-  return dates;
+  if (item.simkl_type === "movies") return "movie";
+  if (item.simkl_type === "anime") return "anime";
+  return "tv show";
 }
 
-function newestDate(item) {
-  const dates = collectDates(item);
-
-  if (!dates.length) return "";
-
-  return dates
-    .sort((a, b) => new Date(b).getTime() - new Date(a).getTime())[0];
-}
-
-function episodeLine(item) {
-  const next = item.next_to_watch_info;
-
-  if (next && (next.season || next.episode || next.title)) {
-    const s = next.season ? `S${String(next.season).padStart(2, "0")}` : "";
-    const e = next.episode ? `E${String(next.episode).padStart(2, "0")}` : "";
-    const ep = `${s}${e}`;
-    const title = next.title ? ` · next: ${next.title}` : "";
-    return ep ? `next ${ep}${title}` : `next${title}`;
-  }
-
-  if (item.watched_episodes_count && item.total_episodes_count) {
-    return `${item.watched_episodes_count}/${item.total_episodes_count} episodes watched`;
-  }
-
-  return "";
-}
-
-function pickBestItem(items) {
-  const watching = items.filter(item => item.status === "watching");
+function pickBest(items) {
+  const watching = items.filter(item => item.simkl_status === "watching");
 
   const pool = watching.length ? watching : items;
 
   return pool
     .map(item => ({
       item,
-      date: newestDate(item)
+      date: findDate(item)
     }))
     .sort((a, b) => {
-      const aTime = a.date ? new Date(a.date).getTime() : 0;
-      const bTime = b.date ? new Date(b.date).getTime() : 0;
-      return bTime - aTime;
+      const at = a.date ? new Date(a.date).getTime() : 0;
+      const bt = b.date ? new Date(b.date).getTime() : 0;
+      return bt - at;
     })[0];
 }
 
 async function main() {
-  const all = [];
+  const allItems = [];
 
-  for (const type of ["shows", "movies", "anime"]) {
-    const data = await getSimkl(type);
-    all.push(...flattenItems(data, type));
+  for (const type of TYPES) {
+    for (const status of STATUSES) {
+      try {
+        const items = await getItems(type, status);
+        allItems.push(...items);
+      } catch (error) {
+        console.log(`Skipped ${type}/${status}: ${error.message}`);
+      }
+    }
   }
 
-  const best = pickBestItem(all);
+  const best = pickBest(allItems);
 
   let output;
 
@@ -167,13 +147,11 @@ async function main() {
       meta: "from simkl"
     };
   } else {
-    const item = best.item;
-
     output = {
-      title: getTitle(item),
-      subtitle: episodeLine(item) || getTypeLabel(item),
-      watched_at: best.date || "",
-      meta: item.status ? `simkl · ${item.status}` : "from simkl"
+      title: getTitle(best.item),
+      subtitle: getSubtitle(best.item),
+      watched_at: best.date,
+      meta: `simkl · ${best.item.simkl_status}`
     };
   }
 
@@ -184,13 +162,19 @@ async function main() {
 main().catch(error => {
   console.error(error);
 
-  const fallback = {
-    title: "nothing tracked rn",
-    subtitle: "",
-    watched_at: "",
-    meta: "simkl unavailable"
-  };
+  fs.writeFileSync(
+    "watching.json",
+    JSON.stringify(
+      {
+        title: "nothing tracked rn",
+        subtitle: "",
+        watched_at: "",
+        meta: "simkl unavailable"
+      },
+      null,
+      2
+    )
+  );
 
-  fs.writeFileSync("watching.json", JSON.stringify(fallback, null, 2));
   process.exit(1);
 });
