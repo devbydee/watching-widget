@@ -27,10 +27,10 @@ jobs:
           SIMKL_CLIENT_ID: ${{ secrets.SIMKL_CLIENT_ID }}
           SIMKL_ACCESS_TOKEN: ${{ secrets.SIMKL_ACCESS_TOKEN }}
 
-      - name: Commit updated watching.json
+      - name: Commit updated watching files
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add watching.json
+          git add watching.json simkl-state.json
           git diff --cached --quiet || git commit -m "Update watching widget"
           git push
