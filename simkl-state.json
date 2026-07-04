@@ -1,0 +1,2003 @@
+{
+  "lastSync": "2026-07-04T23:23:29Z",
+  "cache": {
+    "shows": [
+      {
+        "added_to_watchlist_at": "2026-07-04T23:16:05Z",
+        "last_watched_at": "2026-07-04T23:23:28Z",
+        "user_rated_at": null,
+        "user_rating": null,
+        "status": "watching",
+        "last_watched": "S04E06",
+        "next_to_watch": "S05E01",
+        "watched_episodes_count": 6,
+        "total_episodes_count": 32,
+        "not_aired_episodes_count": 0,
+        "show": {
+          "title": "Black Mirror",
+          "poster": "86/86901726e30f1f813",
+          "year": 2011,
+          "ids": {
+            "simkl": 4921,
+            "slug": "black-mirror",
+            "imdb": "tt2085059",
+            "tvdbslug": "black-mirror",
+            "trakttvslug": "black-mirror",
+            "tvdb": "253463",
+            "tmdb": "42009"
+          }
+        },
+        "next_to_watch_info": {
+          "title": "Striking Vipers",
+          "season": 5,
+          "episode": 1,
+          "date": "2019-06-05T00:00:00-05:00"
+        },
+        "_type": "shows"
+      }
+    ],
+    "movies": [
+      {
+        "added_to_watchlist_at": "2026-07-04T22:42:54Z",
+        "last_watched_at": null,
+        "user_rated_at": null,
+        "user_rating": null,
+        "status": "plantowatch",
+        "watched_episodes_count": 0,
+        "total_episodes_count": 0,
+        "not_aired_episodes_count": 0,
+        "movie": {
+          "title": "D.E.B.S.",
+          "poster": "95/95487141959685767",
+          "year": 2004,
+          "ids": {
+            "simkl": 53878,
+            "slug": "debs",
+            "imdb": "tt0367631",
+            "letterslug": "debs",
+            "traktmslug": "d-e-b-s-2004",
+            "tmdb": "540",
+            "tvdbslug": "debs",
+            "tvdb": "6171"
+          }
+        },
+        "_type": "movies"
+      },
+      {
+        "added_to_watchlist_at": "2026-07-04T22:42:54Z",
+        "last_watched_at": null,
+        "user_rated_at": null,
+        "user_rating": null,
+        "status": "plantowatch",
+        "watched_episodes_count": 0,
+        "total_episodes_count": 0,
+        "not_aired_episodes_count": 0,
+        "movie": {
+          "title": "Little Miss Sunshine",
+          "poster": "10/1009139811f1fcfb7b",
+          "year": 2006,
+          "ids": {
+            "simkl": 54252,
+            "slug": "little-miss-sunshine",
+            "imdb": "tt0449059",
+            "letterslug": "little-miss-sunshine",
+            "traktmslug": "little-miss-sunshine-2006",
+            "tmdb": "773",
+            "tvdbslug": "little-miss-sunshine",
+            "tvdb": "6438"
+          }
+        },
+        "_type": "movies"
+      },
+      {
+        "added_to_watchlist_at": "2026-07-04T22:42:54Z",
+        "last_watched_at": null,
+        "user_rated_at": null,
+        "user_rating": null,
+        "status": "plantowatch",
+        "watched_episodes_count": 0,
+        "total_episodes_count": 0,
+        "not_aired_episodes_count": 0,
+        "movie": {
+          "title": "Mulholland Drive",
+          "poster": "13/135686638a2da3b6bd",
+          "year": 2001,
+          "ids": {
+            "simkl": 54658,
+            "slug": "mulholland-drive",
+            "imdb": "tt0166924",
+            "letterslug": "mulholland-drive",
+            "traktmslug": "mulholland-drive-2001",
+            "tmdb": "1018",
+            "tvdbslug": "mulholland-drive",
+            "tvdb": "915"
+          }
+        },
+        "_type": "movies"
+      },
+      {
+        "added_to_watchlist_at": "2026-07-04T22:42:54Z",
+        "last_watched_at": "2026-03-17T00:00:00Z",
+        "user_rated_at": null,
+        "user_rating": null,
+        "status": "completed",
+        "watched_episodes_count": 0,
+        "total_episodes_count": 0,
+        "not_aired_episodes_count": 0,
+        "movie": {
+          "title": "Imagine Me & You",
+          "poster": "11/11045286e64714f7fb",
+          "year": 2005,
+          "ids": {
+            "simkl": 55006,
+            "slug": "imagine-me-and-you",
+            "imdb": "tt0421994",
+            "letterslug": "imagine-me-you",
+            "traktmslug": "imagine-me-you-2006",
+            "tmdb": "1544",
+            "tvdbslug": "imagine-me-you",
+            "tvdb": "3792"
+          }
+        },
+        "_type": "movies"
+      },
+      {
+        "added_to_watchlist_at": "2026-07-04T22:42:54Z",
+        "last_watched_at": null,
+        "user_rated_at": null,
+        "user_rating": null,
+        "status": "plantowatch",
+        "watched_episodes_count": 0,
+        "total_episodes_count": 0,
+        "not_aired_episodes_count": 0,
+        "movie": {
+          "title": "Fried Green Tomatoes",
+          "poster": "66/66644461e4f39428b",
+          "year": 1991,
+          "ids": {
+            "simkl": 55154,
+            "slug": "fried-green-tomatoes",
+            "imdb": "tt0101921",
+            "letterslug": "fried-green-tomatoes",
+            "traktmslug": "fried-green-tomatoes-1991",
+            "tmdb": "1633",
+            "tvdbslug": "fried-green-tomatoes",
+            "tvdb": "3291"
+          }
+        },
+        "_type": "movies"
+      },
+      {
+        "added_to_watchlist_at": "2026-07-04T22:42:54Z",
+        "last_watched_at": "2026-01-01T00:00:00Z",
+        "user_rated_at": null,
+        "user_rating": 9,
+        "status": "completed",
+        "watched_episodes_count": 0,
+        "total_episodes_count": 0,
+        "not_aired_episodes_count": 0,
+        "movie": {
+          "title": "Bound",
+          "poster": "98/98620900ae0ed8fc0",
+          "year": 1996,
+          "ids": {
+            "simkl": 62046,
+            "slug": "bound",
+            "imdb": "tt0115736",
+            "letterslug": "bound",
+            "traktmslug": "bound-1996",
+            "tmdb": "9303",
+            "tvdbslug": "bound",
+            "tvdb": "4604"
+          }
+        },
+        "_type": "movies"
+      },
+      {
+        "added_to_watchlist_at": "2026-07-04T22:42:54Z",
+        "last_watched_at": null,
+        "user_rated_at": null,
+        "user_rating": null,
+        "status": "plantowatch",
+        "watched_episodes_count": 0,
+        "total_episodes_count": 0,
+        "not_aired_episodes_count": 0,
+        "movie": {
+          "title": "Mean Girls",
+          "poster": "67/6765616ad5545bb9d",
+          "year": 2004,
+          "ids": {
+            "simkl": 64366,
+            "slug": "mean-girls",
+            "imdb": "tt0377092",
+            "letterslug": "mean-girls",
+            "traktmslug": "mean-girls-2004",
+            "tmdb": "10625",
+            "tvdbslug": "mean-girls",
+            "tvdb": "806"
+          }
+        },
+        "_type": "movies"
+      },
+      {
+        "added_to_watchlist_at": "2026-07-04T22:42:54Z",
+        "last_watched_at": "2026-03-16T00:00:00Z",
+        "user_rated_at": null,
+        "user_rating": null,
+        "status": "completed",
+        "watched_episodes_count": 0,
+        "total_episodes_count": 0,
+        "not_aired_episodes_count": 0,
+        "movie": {
+          "title": "Matilda",
+          "poster": "13/1331550184b485ed72",
+          "year": 1996,
+          "ids": {
+            "simkl": 64738,
+            "slug": "matilda",
+            "imdb": "tt0117008",
+            "letterslug": "matilda",
+            "traktmslug": "matilda-1996",
+            "tmdb": "10830",
+            "tvdbslug": "matilda",
+            "tvdb": "930"
+          }
+        },
+        "_type": "movies"
+      },
+      {
+        "added_to_watchlist_at": "2026-07-04T22:42:54Z",
+        "last_watched_at": null,
+        "user_rated_at": null,
+        "user_rating": null,
+        "status": "plantowatch",
+        "watched_episodes_count": 0,
+        "total_episodes_count": 0,
+        "not_aired_episodes_count": 0,
+        "movie": {
+          "title": "Go Fish",
+          "poster": "75/7528504aec19b6172",
+          "year": 1994,
+          "ids": {
+            "simkl": 75208,
+            "slug": "go-fish",
+            "imdb": "tt0109913",
+            "letterslug": "go-fish",
+            "traktmslug": "go-fish-1994",
+            "tmdb": "18620",
+            "tvdbslug": "go-fish",
+            "tvdb": "64470"
+          }
+        },
+        "_type": "movies"
+      },
+      {
+        "added_to_watchlist_at": "2026-07-04T22:42:54Z",
+        "last_watched_at": "2026-01-08T00:00:00Z",
+        "user_rated_at": null,
+        "user_rating": 8,
+        "status": "completed",
+        "watched_episodes_count": 0,
+        "total_episodes_count": 0,
+        "not_aired_episodes_count": 0,
+        "movie": {
+          "title": "But I'm a Cheerleader",
+          "poster": "16/16805637e457236144",
+          "year": 1999,
+          "ids": {
+            "simkl": 77740,
+            "slug": "but-im-a-cheerleader",
+            "imdb": "tt0179116",
+            "letterslug": "but-im-a-cheerleader",
+            "traktmslug": "but-i-m-a-cheerleader-2000",
+            "tmdb": "20770",
+            "tvdbslug": "but-im-a-cheerleader",
+            "tvdb": "5175"
+          }
+        },
+        "_type": "movies"
+      },
+      {
+        "added_to_watchlist_at": "2026-07-04T22:42:54Z",
+        "last_watched_at": null,
+        "user_rated_at": null,
+        "user_rating": null,
+        "status": "plantowatch",
+        "watched_episodes_count": 0,
+        "total_episodes_count": 0,
+        "not_aired_episodes_count": 0,
+        "movie": {
+          "title": "D.E.B.S.",
+          "poster": "13/1376905157383afd64",
+          "year": 2003,
+          "ids": {
+            "simkl": 271738,
+            "slug": "debs",
+            "imdb": "tt0337953",
+            "letterslug": "debs-2003",
+            "traktmslug": "d-e-b-s-2003",
+            "tmdb": "178516",
+            "tvdbslug": "debs-2003",
+            "tvdb": "77847"
+          }
+        },
+        "_type": "movies"
+      },
+      {
+        "added_to_watchlist_at": "2026-07-04T22:42:54Z",
+        "last_watched_at": null,
+        "user_rated_at": null,
+        "user_rating": null,
+        "status": "plantowatch",
+        "watched_episodes_count": 0,
+        "total_episodes_count": 0,
+        "not_aired_episodes_count": 0,
+        "movie": {
+          "title": "Forbidden Love: The Unashamed Stories of Lesbian Lives",
+          "poster": "15/15254051c660e39810",
+          "year": 1992,
+          "ids": {
+            "simkl": 288940,
+            "slug": "forbidden-love-the-unashamed-stories-of-lesbian-lives",
+            "imdb": "tt0106944",
+            "letterslug": "forbidden-love-the-unashamed-stories-of-lesbian-lives",
+            "traktmslug": "forbidden-love-the-unashamed-stories-of-lesbian-lives-1992",
+            "tmdb": "194926",
+            "tvdbslug": "forbidden-love-the-unashamed-stories-of-lesbian-lives",
+            "tvdb": "161673"
+          }
+        },
+        "_type": "movies"
+      },
+      {
+        "added_to_watchlist_at": "2026-07-04T22:42:54Z",
+        "last_watched_at": "2026-01-08T00:00:00Z",
+        "user_rated_at": null,
+        "user_rating": 10,
+        "status": "completed",
+        "watched_episodes_count": 0,
+        "total_episodes_count": 0,
+        "not_aired_episodes_count": 0,
+        "movie": {
+          "title": "Carol",
+          "poster": "10/103847903276dc58a7",
+          "year": 2015,
+          "ids": {
+            "simkl": 359326,
+            "slug": "carol",
+            "imdb": "tt2402927",
+            "letterslug": "carol-2015",
+            "traktmslug": "carol-2015",
+            "tmdb": "258480",
+            "tvdbslug": "carol",
+            "tvdb": "1122"
+          }
+        },
+        "_type": "movies"
+      },
+      {
+        "added_to_watchlist_at": "2026-07-04T22:42:54Z",
+        "last_watched_at": "2026-03-17T00:00:00Z",
+        "user_rated_at": null,
+        "user_rating": 7,
+        "status": "completed",
+        "watched_episodes_count": 0,
+        "total_episodes_count": 0,
+        "not_aired_episodes_count": 0,
+        "movie": {
+          "title": "The Handmaiden",
+          "poster": "10/102103143a7e176232",
+          "year": 2016,
+          "ids": {
+            "simkl": 415726,
+            "slug": "the-handmaiden",
+            "imdb": "tt4016934",
+            "letterslug": "the-handmaiden",
+            "traktmslug": "the-handmaiden-2016",
+            "mdlslug": "11183-the-handmaiden",
+            "tmdb": "290098",
+            "tvdbslug": "the-handmaiden",
+            "tvdb": "999"
+          }
+        },
+        "_type": "movies"
+      },
+      {
+        "added_to_watchlist_at": "2026-07-04T22:42:54Z",
+        "last_watched_at": "2026-03-17T00:00:00Z",
+        "user_rated_at": null,
+        "user_rating": null,
+        "status": "completed",
+        "watched_episodes_count": 0,
+        "total_episodes_count": 0,
+        "not_aired_episodes_count": 0,
+        "movie": {
+          "title": "Ballerina",
+          "poster": "55/55543108d3876ed32",
+          "year": 2016,
+          "ids": {
+            "simkl": 499252,
+            "slug": "ballerina",
+            "imdb": "tt2261287",
+            "letterslug": "ballerina-2016",
+            "traktmslug": "ballerina-2016",
+            "tmdb": "342473",
+            "tvdbslug": "ballerina",
+            "tvdb": "1512"
+          }
+        },
+        "_type": "movies"
+      },
+      {
+        "added_to_watchlist_at": "2026-07-04T22:42:54Z",
+        "last_watched_at": "2026-03-16T00:00:00Z",
+        "user_rated_at": null,
+        "user_rating": null,
+        "status": "completed",
+        "watched_episodes_count": 0,
+        "total_episodes_count": 0,
+        "not_aired_episodes_count": 0,
+        "movie": {
+          "title": "Train to Busan",
+          "poster": "89/89983860c9c4eeab8",
+          "year": 2016,
+          "ids": {
+            "simkl": 583262,
+            "slug": "train-to-busan",
+            "imdb": "tt5700672",
+            "letterslug": "train-to-busan",
+            "traktmslug": "train-to-busan-2016",
+            "mdlslug": "11314-train-to-busan",
+            "tmdb": "396535",
+            "tvdbslug": "train-to-busan",
+            "tvdb": "966"
+          }
+        },
+        "_type": "movies"
+      },
+      {
+        "added_to_watchlist_at": "2026-07-04T22:42:54Z",
+        "last_watched_at": "2026-01-01T00:00:00Z",
+        "user_rated_at": null,
+        "user_rating": 7,
+        "status": "completed",
+        "watched_episodes_count": 0,
+        "total_episodes_count": 0,
+        "not_aired_episodes_count": 0,
+        "movie": {
+          "title": "Call Me by Your Name",
+          "poster": "12/12764701af1ef35c0b",
+          "year": 2017,
+          "ids": {
+            "simkl": 587080,
+            "slug": "call-me-by-your-name",
+            "imdb": "tt5726616",
+            "letterslug": "call-me-by-your-name",
+            "traktmslug": "call-me-by-your-name-2017",
+            "tmdb": "398818",
+            "tvdbslug": "call-me-by-your-name",
+            "tvdb": "341"
+          }
+        },
+        "_type": "movies"
+      },
+      {
+        "added_to_watchlist_at": "2026-07-04T22:42:54Z",
+        "last_watched_at": "2026-03-16T00:00:00Z",
+        "user_rated_at": null,
+        "user_rating": null,
+        "status": "completed",
+        "watched_episodes_count": 0,
+        "total_episodes_count": 0,
+        "not_aired_episodes_count": 0,
+        "movie": {
+          "title": "Disobedience",
+          "poster": "69/690498883ec4cad20",
+          "year": 2018,
+          "ids": {
+            "simkl": 623360,
+            "slug": "disobedience",
+            "imdb": "tt6108178",
+            "letterslug": "disobedience-2017",
+            "traktmslug": "disobedience-2018",
+            "tmdb": "419743",
+            "tvdbslug": "disobedience",
+            "tvdb": "498"
+          }
+        },
+        "_type": "movies"
+      },
+      {
+        "added_to_watchlist_at": "2026-07-04T22:42:54Z",
+        "last_watched_at": "2026-03-16T00:00:00Z",
+        "user_rated_at": null,
+        "user_rating": null,
+        "status": "completed",
+        "watched_episodes_count": 0,
+        "total_episodes_count": 0,
+        "not_aired_episodes_count": 0,
+        "movie": {
+          "title": "The Kissing Booth",
+          "poster": "11/11963109cff5df0c5f",
+          "year": 2018,
+          "ids": {
+            "simkl": 681778,
+            "slug": "the-kissing-booth",
+            "imdb": "tt3799232",
+            "letterslug": "the-kissing-booth",
+            "traktmslug": "the-kissing-booth-2018",
+            "tmdb": "454983",
+            "tvdbslug": "the-kissing-booth",
+            "tvdb": "444"
+          }
+        },
+        "_type": "movies"
+      },
+      {
+        "added_to_watchlist_at": "2026-07-04T22:42:54Z",
+        "last_watched_at": "2026-03-16T00:00:00Z",
+        "user_rated_at": null,
+        "user_rating": null,
+        "status": "completed",
+        "watched_episodes_count": 0,
+        "total_episodes_count": 0,
+        "not_aired_episodes_count": 0,
+        "movie": {
+          "title": "Forgotten",
+          "poster": "80/80957203e8f909cec",
+          "year": 2017,
+          "ids": {
+            "simkl": 739960,
+            "slug": "forgotten",
+            "imdb": "tt7057496",
+            "letterslug": "forgotten-2017",
+            "traktmslug": "forgotten-2017",
+            "mdlslug": "22899-night-of-memory",
+            "tmdb": "488623",
+            "tvdbslug": "forgotten",
+            "tvdb": "6652"
+          }
+        },
+        "_type": "movies"
+      },
+      {
+        "added_to_watchlist_at": "2026-07-04T22:42:54Z",
+        "last_watched_at": "2026-03-16T00:00:00Z",
+        "user_rated_at": null,
+        "user_rating": null,
+        "status": "completed",
+        "watched_episodes_count": 0,
+        "total_episodes_count": 0,
+        "not_aired_episodes_count": 0,
+        "movie": {
+          "title": "Parasite",
+          "poster": "80/80961808be6d4b2f4",
+          "year": 2019,
+          "ids": {
+            "simkl": 752138,
+            "slug": "parasite",
+            "imdb": "tt6751668",
+            "letterslug": "parasite-2019",
+            "traktmslug": "parasite-2019",
+            "mdlslug": "23429-parasite",
+            "tmdb": "496243",
+            "tvdbslug": "parasite-2019",
+            "tvdb": "41517"
+          }
+        },
+        "_type": "movies"
+      },
+      {
+        "added_to_watchlist_at": "2026-07-04T22:42:54Z",
+        "last_watched_at": "2026-03-16T00:00:00Z",
+        "user_rated_at": null,
+        "user_rating": null,
+        "status": "completed",
+        "watched_episodes_count": 0,
+        "total_episodes_count": 0,
+        "not_aired_episodes_count": 0,
+        "movie": {
+          "title": "Enola Holmes",
+          "poster": "10/10353690b47afb5bbb",
+          "year": 2020,
+          "ids": {
+            "simkl": 754446,
+            "slug": "enola-holmes",
+            "imdb": "tt7846844",
+            "letterslug": "enola-holmes",
+            "traktmslug": "enola-holmes-2020",
+            "tmdb": "497582",
+            "tvdbslug": "enola-holmes",
+            "tvdb": "131678"
+          }
+        },
+        "_type": "movies"
+      },
+      {
+        "added_to_watchlist_at": "2026-07-04T22:42:54Z",
+        "last_watched_at": "2026-03-16T00:00:00Z",
+        "user_rated_at": null,
+        "user_rating": null,
+        "status": "completed",
+        "watched_episodes_count": 0,
+        "total_episodes_count": 0,
+        "not_aired_episodes_count": 0,
+        "movie": {
+          "title": "Ma",
+          "poster": "80/8061548608786ddd9",
+          "year": 2019,
+          "ids": {
+            "simkl": 762138,
+            "slug": "ma",
+            "imdb": "tt7958736",
+            "letterslug": "ma-2019",
+            "traktmslug": "ma-2019",
+            "mdlslug": "728889-mama",
+            "tmdb": "502416",
+            "tvdbslug": "ma-2019",
+            "tvdb": "66065"
+          }
+        },
+        "_type": "movies"
+      },
+      {
+        "added_to_watchlist_at": "2026-07-04T22:42:54Z",
+        "last_watched_at": "2026-03-16T00:00:00Z",
+        "user_rated_at": null,
+        "user_rating": null,
+        "status": "completed",
+        "watched_episodes_count": 0,
+        "total_episodes_count": 0,
+        "not_aired_episodes_count": 0,
+        "movie": {
+          "title": "Someone Great",
+          "poster": "79/79438105cd7759b59",
+          "year": 2019,
+          "ids": {
+            "simkl": 796894,
+            "slug": "someone-great",
+            "imdb": "tt8075260",
+            "letterslug": "someone-great",
+            "traktmslug": "someone-great-2019",
+            "tmdb": "515248",
+            "tvdbslug": "someone-great",
+            "tvdb": "25763"
+          }
+        },
+        "_type": "movies"
+      },
+      {
+        "added_to_watchlist_at": "2026-07-04T22:42:54Z",
+        "last_watched_at": "2026-03-16T00:00:00Z",
+        "user_rated_at": null,
+        "user_rating": null,
+        "status": "completed",
+        "watched_episodes_count": 0,
+        "total_episodes_count": 0,
+        "not_aired_episodes_count": 0,
+        "movie": {
+          "title": "Five Feet Apart",
+          "poster": "78/781504002ced1d372",
+          "year": 2019,
+          "ids": {
+            "simkl": 832454,
+            "slug": "five-feet-apart",
+            "imdb": "tt6472976",
+            "letterslug": "five-feet-apart",
+            "traktmslug": "five-feet-apart-2019",
+            "tmdb": "527641",
+            "tvdbslug": "five-feet-apart",
+            "tvdb": "1367"
+          }
+        },
+        "_type": "movies"
+      },
+      {
+        "added_to_watchlist_at": "2026-07-04T22:42:54Z",
+        "last_watched_at": "2026-03-16T00:00:00Z",
+        "user_rated_at": null,
+        "user_rating": 8,
+        "status": "completed",
+        "watched_episodes_count": 0,
+        "total_episodes_count": 0,
+        "not_aired_episodes_count": 0,
+        "movie": {
+          "title": "Portrait of a Lady on Fire",
+          "poster": "84/8474926df65e3a57c",
+          "year": 2019,
+          "ids": {
+            "simkl": 847710,
+            "slug": "portrait-of-a-lady-on-fire",
+            "imdb": "tt8613070",
+            "letterslug": "portrait-of-a-lady-on-fire",
+            "traktmslug": "portrait-of-a-lady-on-fire-2019",
+            "tmdb": "531428",
+            "tvdbslug": "portrait-de-la-jeune-fille-en-feu",
+            "tvdb": "131608"
+          }
+        },
+        "_type": "movies"
+      },
+      {
+        "added_to_watchlist_at": "2026-07-04T22:42:54Z",
+        "last_watched_at": null,
+        "user_rated_at": null,
+        "user_rating": null,
+        "status": "plantowatch",
+        "watched_episodes_count": 0,
+        "total_episodes_count": 0,
+        "not_aired_episodes_count": 0,
+        "movie": {
+          "title": "Billie & Emma",
+          "poster": "19/19741573c0411a6d92",
+          "year": 2019,
+          "ids": {
+            "simkl": 932382,
+            "slug": "billie-and-emma",
+            "imdb": "tt9112578",
+            "letterslug": "billie-emma",
+            "traktmslug": "billie-emma-2019",
+            "tmdb": "553917",
+            "tvdbslug": "billie-and-emma",
+            "tvdb": "101414"
+          }
+        },
+        "_type": "movies"
+      },
+      {
+        "added_to_watchlist_at": "2026-07-04T22:42:54Z",
+        "last_watched_at": null,
+        "user_rated_at": null,
+        "user_rating": null,
+        "status": "plantowatch",
+        "watched_episodes_count": 0,
+        "total_episodes_count": 0,
+        "not_aired_episodes_count": 0,
+        "movie": {
+          "title": "Moonlit Winter",
+          "poster": "88/8888822f01460717f",
+          "year": 2019,
+          "ids": {
+            "simkl": 1027332,
+            "slug": "moonlit-winter",
+            "imdb": "tt11311974",
+            "letterslug": "moonlit-winter",
+            "traktmslug": "moonlit-winter-2019",
+            "mdlslug": "32995-full-moon",
+            "tmdb": "578209",
+            "tvdbslug": "moonlit-winter",
+            "tvdb": "132168"
+          }
+        },
+        "_type": "movies"
+      },
+      {
+        "added_to_watchlist_at": "2026-07-04T22:42:54Z",
+        "last_watched_at": "2026-03-16T00:00:00Z",
+        "user_rated_at": null,
+        "user_rating": 6,
+        "status": "completed",
+        "watched_episodes_count": 0,
+        "total_episodes_count": 0,
+        "not_aired_episodes_count": 0,
+        "movie": {
+          "title": "Fear Street: 1666",
+          "poster": "11/11589444375dfa6295",
+          "year": 2021,
+          "ids": {
+            "simkl": 1065900,
+            "slug": "fear-street-1666",
+            "imdb": "tt9701942",
+            "letterslug": "fear-street-1666",
+            "traktmslug": "fear-street-1666-2021",
+            "tmdb": "591275",
+            "tvdbslug": "fear-street-1666",
+            "tvdb": "160812"
+          }
+        },
+        "_type": "movies"
+      },
+      {
+        "added_to_watchlist_at": "2026-07-04T22:42:54Z",
+        "last_watched_at": "2026-03-16T00:00:00Z",
+        "user_rated_at": null,
+        "user_rating": null,
+        "status": "completed",
+        "watched_episodes_count": 0,
+        "total_episodes_count": 0,
+        "not_aired_episodes_count": 0,
+        "movie": {
+          "title": "Fear Street: 1978",
+          "poster": "11/11584682c8f8032e4d",
+          "year": 2021,
+          "ids": {
+            "simkl": 1065902,
+            "slug": "fear-street-1978",
+            "imdb": "tt9701940",
+            "letterslug": "fear-street-1978",
+            "traktmslug": "fear-street-1978-2021",
+            "tmdb": "591274",
+            "tvdbslug": "fear-street-2",
+            "tvdb": "139027"
+          }
+        },
+        "_type": "movies"
+      },
+      {
+        "added_to_watchlist_at": "2026-07-04T22:42:54Z",
+        "last_watched_at": "2026-03-16T00:00:00Z",
+        "user_rated_at": null,
+        "user_rating": 6,
+        "status": "completed",
+        "watched_episodes_count": 0,
+        "total_episodes_count": 0,
+        "not_aired_episodes_count": 0,
+        "movie": {
+          "title": "Fear Street: 1994",
+          "poster": "11/11562560afe1fd88f5",
+          "year": 2021,
+          "ids": {
+            "simkl": 1066166,
+            "slug": "fear-street-1994",
+            "imdb": "tt6566576",
+            "letterslug": "fear-street-1994",
+            "traktmslug": "fear-street-1994-2021",
+            "tmdb": "591273",
+            "tvdbslug": "fear-street",
+            "tvdb": "135769"
+          }
+        },
+        "_type": "movies"
+      },
+      {
+        "added_to_watchlist_at": "2026-07-04T22:42:54Z",
+        "last_watched_at": "2026-03-17T00:00:00Z",
+        "user_rated_at": null,
+        "user_rating": 8,
+        "status": "completed",
+        "watched_episodes_count": 0,
+        "total_episodes_count": 0,
+        "not_aired_episodes_count": 0,
+        "movie": {
+          "title": "The Half of It",
+          "poster": "93/936958843252553e8",
+          "year": 2020,
+          "ids": {
+            "simkl": 1080688,
+            "slug": "the-half-of-it",
+            "imdb": "tt9683478",
+            "letterslug": "the-half-of-it",
+            "traktmslug": "the-half-of-it-2020",
+            "tmdb": "597219",
+            "tvdbslug": "the-half-of-it",
+            "tvdb": "133961"
+          }
+        },
+        "_type": "movies"
+      },
+      {
+        "added_to_watchlist_at": "2026-07-04T22:42:54Z",
+        "last_watched_at": "2026-03-17T00:00:00Z",
+        "user_rated_at": null,
+        "user_rating": null,
+        "status": "completed",
+        "watched_episodes_count": 0,
+        "total_episodes_count": 0,
+        "not_aired_episodes_count": 0,
+        "movie": {
+          "title": "I Care a Lot",
+          "poster": "10/108295829b0071f48c",
+          "year": 2020,
+          "ids": {
+            "simkl": 1092986,
+            "slug": "i-care-a-lot",
+            "imdb": "tt9893250",
+            "letterslug": "i-care-a-lot",
+            "traktmslug": "i-care-a-lot-2021",
+            "tmdb": "601666",
+            "tvdbslug": "i-care-a-lot",
+            "tvdb": "146732"
+          }
+        },
+        "_type": "movies"
+      },
+      {
+        "added_to_watchlist_at": "2026-07-04T22:42:54Z",
+        "last_watched_at": "2026-03-16T00:00:00Z",
+        "user_rated_at": null,
+        "user_rating": null,
+        "status": "completed",
+        "watched_episodes_count": 0,
+        "total_episodes_count": 0,
+        "not_aired_episodes_count": 0,
+        "movie": {
+          "title": "#Alive",
+          "poster": "13/13289811235a327f82",
+          "year": 2020,
+          "ids": {
+            "simkl": 1128032,
+            "slug": "alive",
+            "imdb": "tt10620868",
+            "letterslug": "alive-2020",
+            "traktmslug": "alive-2020",
+            "mdlslug": "38787-alone",
+            "tmdb": "614696",
+            "tvdbslug": "alive-2020",
+            "tvdb": "135916"
+          }
+        },
+        "_type": "movies"
+      },
+      {
+        "added_to_watchlist_at": "2026-07-04T22:42:54Z",
+        "last_watched_at": "2026-03-16T00:00:00Z",
+        "user_rated_at": null,
+        "user_rating": null,
+        "status": "completed",
+        "watched_episodes_count": 0,
+        "total_episodes_count": 0,
+        "not_aired_episodes_count": 0,
+        "movie": {
+          "title": "Am I OK?",
+          "poster": "15/15840667bcd23acafe",
+          "year": 2022,
+          "ids": {
+            "simkl": 1194562,
+            "slug": "am-i-ok",
+            "imdb": "tt11225626",
+            "letterslug": "am-i-ok",
+            "traktmslug": "am-i-ok-2024",
+            "tmdb": "641934",
+            "tvdbslug": "am-i-ok",
+            "tvdb": "149379"
+          }
+        },
+        "_type": "movies"
+      },
+      {
+        "added_to_watchlist_at": "2026-07-04T22:42:54Z",
+        "last_watched_at": "2026-03-17T00:00:00Z",
+        "user_rated_at": null,
+        "user_rating": null,
+        "status": "completed",
+        "watched_episodes_count": 0,
+        "total_episodes_count": 0,
+        "not_aired_episodes_count": 0,
+        "movie": {
+          "title": "Scream",
+          "poster": "13/139231813f822eeca8",
+          "year": 2022,
+          "ids": {
+            "simkl": 1203810,
+            "slug": "scream",
+            "imdb": "tt11245972",
+            "letterslug": "scream-2022",
+            "traktmslug": "scream-2022",
+            "tmdb": "646385",
+            "tvdbslug": "scream-5",
+            "tvdb": "136280"
+          }
+        },
+        "_type": "movies"
+      },
+      {
+        "added_to_watchlist_at": "2026-07-04T22:42:54Z",
+        "last_watched_at": "2026-01-08T00:00:00Z",
+        "user_rated_at": null,
+        "user_rating": 7,
+        "status": "completed",
+        "watched_episodes_count": 0,
+        "total_episodes_count": 0,
+        "not_aired_episodes_count": 0,
+        "movie": {
+          "title": "Mean Girls",
+          "poster": "15/1506234190177f558b",
+          "year": 2024,
+          "ids": {
+            "simkl": 1261632,
+            "slug": "mean-girls",
+            "imdb": "tt11762114",
+            "letterslug": "mean-girls-2024",
+            "traktmslug": "mean-girls-2024",
+            "tmdb": "673593",
+            "tvdbslug": "mean-girls-the-musical",
+            "tvdb": "136492"
+          }
+        },
+        "_type": "movies"
+      },
+      {
+        "added_to_watchlist_at": "2026-07-04T22:42:54Z",
+        "last_watched_at": "2026-03-16T00:00:00Z",
+        "user_rated_at": null,
+        "user_rating": null,
+        "status": "completed",
+        "watched_episodes_count": 0,
+        "total_episodes_count": 0,
+        "not_aired_episodes_count": 0,
+        "movie": {
+          "title": "Your Name Engraved Herein",
+          "poster": "10/1074880470c0d67435",
+          "year": 2020,
+          "ids": {
+            "simkl": 1378186,
+            "slug": "your-name-engraved-herein",
+            "imdb": "tt10329134",
+            "letterslug": "your-name-engraved-herein",
+            "traktmslug": "your-name-engraved-herein-2020",
+            "mdlslug": "36661-your-name-engraved-herein",
+            "tmdb": "719410",
+            "tvdbslug": "your-name-engraved-herein",
+            "tvdb": "134538"
+          }
+        },
+        "_type": "movies"
+      },
+      {
+        "added_to_watchlist_at": "2026-07-04T22:42:54Z",
+        "last_watched_at": "2026-03-16T00:00:00Z",
+        "user_rated_at": null,
+        "user_rating": null,
+        "status": "completed",
+        "watched_episodes_count": 0,
+        "total_episodes_count": 0,
+        "not_aired_episodes_count": 0,
+        "movie": {
+          "title": "Unlocked",
+          "poster": "15/152649377b3376ee50",
+          "year": 2023,
+          "ids": {
+            "simkl": 1427082,
+            "slug": "unlocked",
+            "imdb": "tt26160190",
+            "letterslug": "unlocked-2023",
+            "traktmslug": "unlocked-2023",
+            "mdlslug": "69827-smartphone",
+            "tmdb": "740441",
+            "tvdbslug": "343258-unlocked",
+            "tvdb": "343258"
+          }
+        },
+        "_type": "movies"
+      },
+      {
+        "added_to_watchlist_at": "2026-07-04T22:42:54Z",
+        "last_watched_at": "2026-03-16T00:00:00Z",
+        "user_rated_at": null,
+        "user_rating": null,
+        "status": "completed",
+        "watched_episodes_count": 0,
+        "total_episodes_count": 0,
+        "not_aired_episodes_count": 0,
+        "movie": {
+          "title": "Taxi Driver",
+          "poster": "10/10291768858ae96540",
+          "year": null,
+          "ids": {
+            "simkl": 1428506,
+            "slug": "taxi-driver",
+            "letterslug": "film:662756",
+            "traktmslug": "taxi-driver",
+            "tmdb": "740880"
+          }
+        },
+        "_type": "movies"
+      },
+      {
+        "added_to_watchlist_at": "2026-07-04T22:42:54Z",
+        "last_watched_at": "2026-03-16T00:00:00Z",
+        "user_rated_at": null,
+        "user_rating": null,
+        "status": "completed",
+        "watched_episodes_count": 0,
+        "total_episodes_count": 0,
+        "not_aired_episodes_count": 0,
+        "movie": {
+          "title": "Badhaai Do",
+          "poster": "12/122099879177f928c6",
+          "year": 2022,
+          "ids": {
+            "simkl": 1458052,
+            "slug": "badhaai-do",
+            "imdb": "tt11934846",
+            "letterslug": "badhaai-do",
+            "traktmslug": "badhaai-do-2022",
+            "tmdb": "754716",
+            "tvdbslug": "badhaai-do",
+            "tvdb": "336006"
+          }
+        },
+        "_type": "movies"
+      },
+      {
+        "added_to_watchlist_at": "2026-07-04T22:42:54Z",
+        "last_watched_at": "2026-01-08T00:00:00Z",
+        "user_rated_at": null,
+        "user_rating": 8,
+        "status": "completed",
+        "watched_episodes_count": 0,
+        "total_episodes_count": 0,
+        "not_aired_episodes_count": 0,
+        "movie": {
+          "title": "Do Revenge",
+          "poster": "12/128607813e1f2f48c3",
+          "year": 2022,
+          "ids": {
+            "simkl": 1474636,
+            "slug": "do-revenge",
+            "imdb": "tt13327038",
+            "letterslug": "do-revenge",
+            "traktmslug": "do-revenge-2022",
+            "tmdb": "762968",
+            "tvdbslug": "do-revenge",
+            "tvdb": "338502"
+          }
+        },
+        "_type": "movies"
+      },
+      {
+        "added_to_watchlist_at": "2026-07-04T22:42:54Z",
+        "last_watched_at": "2026-01-08T00:00:00Z",
+        "user_rated_at": null,
+        "user_rating": 8,
+        "status": "completed",
+        "watched_episodes_count": 0,
+        "total_episodes_count": 0,
+        "not_aired_episodes_count": 0,
+        "movie": {
+          "title": "Bottoms",
+          "poster": "14/14597129cb65fb94cd",
+          "year": 2023,
+          "ids": {
+            "simkl": 1605132,
+            "slug": "bottoms",
+            "imdb": "tt17527468",
+            "letterslug": "bottoms",
+            "traktmslug": "bottoms-2023",
+            "tmdb": "814776",
+            "tvdbslug": "340967-bottoms",
+            "tvdb": "340967"
+          }
+        },
+        "_type": "movies"
+      },
+      {
+        "added_to_watchlist_at": "2026-07-04T22:42:54Z",
+        "last_watched_at": null,
+        "user_rated_at": null,
+        "user_rating": null,
+        "status": "plantowatch",
+        "watched_episodes_count": 0,
+        "total_episodes_count": 0,
+        "not_aired_episodes_count": 0,
+        "movie": {
+          "title": "Blue",
+          "poster": "11/1137971695b694aa66",
+          "year": 2002,
+          "ids": {
+            "simkl": 1637806,
+            "slug": "blue",
+            "imdb": "tt0326773",
+            "letterslug": "blue-2002",
+            "traktmslug": "blue-2003-03-29",
+            "tmdb": "99647",
+            "tvdbslug": "blue-2002",
+            "tvdb": "98486"
+          }
+        },
+        "_type": "movies"
+      },
+      {
+        "added_to_watchlist_at": "2026-07-04T22:42:54Z",
+        "last_watched_at": "2026-03-16T00:00:00Z",
+        "user_rated_at": null,
+        "user_rating": null,
+        "status": "completed",
+        "watched_episodes_count": 0,
+        "total_episodes_count": 0,
+        "not_aired_episodes_count": 0,
+        "movie": {
+          "title": "Kill Boksoon",
+          "poster": "13/136060858d36318043",
+          "year": 2023,
+          "ids": {
+            "simkl": 1684798,
+            "slug": "kill-boksoon",
+            "imdb": "tt16900880",
+            "letterslug": "kill-boksoon",
+            "traktmslug": "kill-boksoon-2023",
+            "mdlslug": "705863-kill-bok-soon",
+            "tmdb": "849869",
+            "tvdbslug": "343283-",
+            "tvdb": "343283"
+          }
+        },
+        "_type": "movies"
+      },
+      {
+        "added_to_watchlist_at": "2026-07-04T22:42:54Z",
+        "last_watched_at": "2026-03-16T00:00:00Z",
+        "user_rated_at": null,
+        "user_rating": null,
+        "status": "completed",
+        "watched_episodes_count": 0,
+        "total_episodes_count": 0,
+        "not_aired_episodes_count": 0,
+        "movie": {
+          "title": "20th Century Girl",
+          "poster": "13/13132457b86acb9172",
+          "year": 2022,
+          "ids": {
+            "simkl": 1688030,
+            "slug": "20th-century-girl",
+            "imdb": "tt15340724",
+            "letterslug": "20th-century-girl",
+            "traktmslug": "20th-century-girl-2022",
+            "mdlslug": "699543-the-twentieth-century-girl",
+            "tmdb": "851644",
+            "tvdbslug": "332616-20",
+            "tvdb": "332616"
+          }
+        },
+        "_type": "movies"
+      },
+      {
+        "added_to_watchlist_at": "2026-07-04T22:42:54Z",
+        "last_watched_at": "2026-03-17T00:00:00Z",
+        "user_rated_at": null,
+        "user_rating": null,
+        "status": "completed",
+        "watched_episodes_count": 0,
+        "total_episodes_count": 0,
+        "not_aired_episodes_count": 0,
+        "movie": {
+          "title": "Heart Shot",
+          "poster": "12/122599558b0b68e57c",
+          "year": 2022,
+          "ids": {
+            "simkl": 1831419,
+            "slug": "heart-shot",
+            "imdb": "tt17162546",
+            "letterslug": "heart-shot",
+            "traktmslug": "heart-shot-2022",
+            "tmdb": "929477",
+            "tvdbslug": "heart-shot",
+            "tvdb": "332588"
+          }
+        },
+        "_type": "movies"
+      },
+      {
+        "added_to_watchlist_at": "2026-07-04T22:42:54Z",
+        "last_watched_at": "2026-03-17T00:00:00Z",
+        "user_rated_at": null,
+        "user_rating": null,
+        "status": "completed",
+        "watched_episodes_count": 0,
+        "total_episodes_count": 0,
+        "not_aired_episodes_count": 0,
+        "movie": {
+          "title": "Scream VI",
+          "poster": "13/13773179771c5a3b4e",
+          "year": 2023,
+          "ids": {
+            "simkl": 1840647,
+            "slug": "scream-vi",
+            "imdb": "tt17663992",
+            "letterslug": "scream-vi",
+            "traktmslug": "scream-vi-2023",
+            "tmdb": "934433",
+            "tvdbslug": "scream-6",
+            "tvdb": "336103"
+          }
+        },
+        "_type": "movies"
+      },
+      {
+        "added_to_watchlist_at": "2026-07-04T22:42:54Z",
+        "last_watched_at": "2026-01-08T00:00:00Z",
+        "user_rated_at": null,
+        "user_rating": 7,
+        "status": "completed",
+        "watched_episodes_count": 0,
+        "total_episodes_count": 0,
+        "not_aired_episodes_count": 0,
+        "movie": {
+          "title": "Love Lies Bleeding",
+          "poster": "16/16147225cd63b3adef",
+          "year": 2024,
+          "ids": {
+            "simkl": 1867577,
+            "slug": "love-lies-bleeding",
+            "imdb": "tt19637052",
+            "letterslug": "love-lies-bleeding-2024",
+            "traktmslug": "love-lies-bleeding-2024",
+            "tmdb": "948549",
+            "tvdbslug": "love-lies-bleeding-352346",
+            "tvdb": "352346"
+          }
+        },
+        "_type": "movies"
+      },
+      {
+        "added_to_watchlist_at": "2026-07-04T22:42:54Z",
+        "last_watched_at": null,
+        "user_rated_at": null,
+        "user_rating": null,
+        "status": "plantowatch",
+        "watched_episodes_count": 0,
+        "total_episodes_count": 0,
+        "not_aired_episodes_count": 0,
+        "movie": {
+          "title": "The Seven Husbands of Evelyn Hugo",
+          "poster": "15/1548034934031f8e10",
+          "year": null,
+          "ids": {
+            "simkl": 1876485,
+            "slug": "the-seven-husbands-of-evelyn-hugo",
+            "imdb": "tt19037496",
+            "letterslug": "the-seven-husbands-of-evelyn-hugo",
+            "traktmslug": "the-seven-husbands-of-evelyn-hugo",
+            "tmdb": "953813",
+            "tvdbslug": "the-seven-husbands-of-evelyn-hugo",
+            "tvdb": "336649"
+          }
+        },
+        "_type": "movies"
+      },
+      {
+        "added_to_watchlist_at": "2026-07-04T22:42:54Z",
+        "last_watched_at": null,
+        "user_rated_at": null,
+        "user_rating": null,
+        "status": "plantowatch",
+        "watched_episodes_count": 0,
+        "total_episodes_count": 0,
+        "not_aired_episodes_count": 0,
+        "movie": {
+          "title": "Lucky Fish",
+          "poster": "12/125340316df3da9da8",
+          "year": 2022,
+          "ids": {
+            "simkl": 1901529,
+            "slug": "lucky-fish",
+            "imdb": "tt15400512",
+            "letterslug": "lucky-fish",
+            "traktmslug": "lucky-fish-2022",
+            "tmdb": "969385"
+          }
+        },
+        "_type": "movies"
+      },
+      {
+        "added_to_watchlist_at": "2026-07-04T22:42:54Z",
+        "last_watched_at": null,
+        "user_rated_at": null,
+        "user_rating": null,
+        "status": "plantowatch",
+        "watched_episodes_count": 0,
+        "total_episodes_count": 0,
+        "not_aired_episodes_count": 0,
+        "movie": {
+          "title": "The Secret Diaries of Miss Anne Lister",
+          "poster": "13/130485617585ce591f",
+          "year": 2010,
+          "ids": {
+            "simkl": 2003565,
+            "slug": "the-secret-diaries-of-miss-anne-lister",
+            "imdb": "tt1555126",
+            "letterslug": "the-secret-diaries-of-miss-anne-lister",
+            "traktmslug": "the-secret-diaries-of-miss-anne-lister-2010",
+            "tmdb": "42548",
+            "tvdbslug": "the-secret-diaries-of-miss-anne-lister",
+            "tvdb": "22999"
+          }
+        },
+        "_type": "movies"
+      },
+      {
+        "added_to_watchlist_at": "2026-07-04T22:42:54Z",
+        "last_watched_at": "2026-02-07T00:00:00Z",
+        "user_rated_at": null,
+        "user_rating": 6,
+        "status": "completed",
+        "watched_episodes_count": 0,
+        "total_episodes_count": 0,
+        "not_aired_episodes_count": 0,
+        "movie": {
+          "title": "People We Meet on Vacation",
+          "poster": "19/19143585cfd0c10090",
+          "year": 2026,
+          "ids": {
+            "simkl": 2011523,
+            "slug": "people-we-meet-on-vacation",
+            "imdb": "tt22740896",
+            "letterslug": "people-we-meet-on-vacation",
+            "traktmslug": "people-we-meet-on-vacation-2026",
+            "tmdb": "1034716",
+            "tvdbslug": "people-we-meet-on-vacation",
+            "tvdb": "358944"
+          }
+        },
+        "_type": "movies"
+      },
+      {
+        "added_to_watchlist_at": "2026-07-04T22:42:54Z",
+        "last_watched_at": null,
+        "user_rated_at": null,
+        "user_rating": null,
+        "status": "plantowatch",
+        "watched_episodes_count": 0,
+        "total_episodes_count": 0,
+        "not_aired_episodes_count": 0,
+        "movie": {
+          "title": "A Bride for Rip Van Winkle",
+          "poster": "13/1374378781222238fc",
+          "year": 2016,
+          "ids": {
+            "simkl": 2124109,
+            "slug": "a-bride-for-rip-van-winkle",
+            "imdb": "tt4671274",
+            "letterslug": "a-bride-for-rip-van-winkle",
+            "traktmslug": "a-bride-for-rip-van-winkle-2016",
+            "mdlslug": "16020-the-bride-of-rip-van-winkle",
+            "tmdb": "382170",
+            "tvdbslug": "a-bride-for-rip-van-winkle",
+            "tvdb": "41388"
+          }
+        },
+        "_type": "movies"
+      },
+      {
+        "added_to_watchlist_at": "2026-07-04T22:42:54Z",
+        "last_watched_at": null,
+        "user_rated_at": null,
+        "user_rating": null,
+        "status": "plantowatch",
+        "watched_episodes_count": 0,
+        "total_episodes_count": 0,
+        "not_aired_episodes_count": 0,
+        "movie": {
+          "title": "The Summer",
+          "poster": "14/14261797574b54de44",
+          "year": 2023,
+          "ids": {
+            "simkl": 2149353,
+            "slug": "the-summer",
+            "imdb": "tt28077172",
+            "letterslug": "the-summer-2023",
+            "traktmslug": "the-summer-2023",
+            "tmdb": "1117291",
+            "tvdbslug": "the-summer",
+            "tvdb": "355496"
+          }
+        },
+        "_type": "movies"
+      },
+      {
+        "added_to_watchlist_at": "2026-07-04T22:42:54Z",
+        "last_watched_at": "2026-03-16T00:00:00Z",
+        "user_rated_at": null,
+        "user_rating": 8,
+        "status": "completed",
+        "watched_episodes_count": 0,
+        "total_episodes_count": 0,
+        "not_aired_episodes_count": 0,
+        "movie": {
+          "title": "Rookie",
+          "poster": "19/19723851c0b2a5e278",
+          "year": 2023,
+          "ids": {
+            "simkl": 2197019,
+            "slug": "rookie",
+            "imdb": "tt28517914",
+            "letterslug": "rookie-2023",
+            "traktmslug": "rookie-2023",
+            "mdlslug": "753855-rookie",
+            "tmdb": "1144708",
+            "tvdbslug": "rookie",
+            "tvdb": "350679"
+          }
+        },
+        "_type": "movies"
+      },
+      {
+        "added_to_watchlist_at": "2026-07-04T22:42:54Z",
+        "last_watched_at": "2026-01-08T00:00:00Z",
+        "user_rated_at": null,
+        "user_rating": 6,
+        "status": "completed",
+        "watched_episodes_count": 0,
+        "total_episodes_count": 0,
+        "not_aired_episodes_count": 0,
+        "movie": {
+          "title": "Longlegs",
+          "poster": "16/16294589978e27c2ff",
+          "year": 2024,
+          "ids": {
+            "simkl": 2340177,
+            "slug": "longlegs",
+            "imdb": "tt23468450",
+            "letterslug": "longlegs",
+            "traktmslug": "longlegs-2024",
+            "tmdb": "1226578",
+            "tvdbslug": "longlegs",
+            "tvdb": "353013"
+          }
+        },
+        "_type": "movies"
+      },
+      {
+        "added_to_watchlist_at": "2026-07-04T22:42:54Z",
+        "last_watched_at": "2026-01-01T00:00:00Z",
+        "user_rated_at": null,
+        "user_rating": 9,
+        "status": "completed",
+        "watched_episodes_count": 0,
+        "total_episodes_count": 0,
+        "not_aired_episodes_count": 0,
+        "movie": {
+          "title": "Young Royals Forever",
+          "poster": "18/189449195211ac7f3f",
+          "year": 2024,
+          "ids": {
+            "simkl": 2381191,
+            "slug": "young-royals-forever",
+            "imdb": "tt31402962",
+            "letterslug": "young-royals-forever",
+            "traktmslug": "young-royals-forever-2024",
+            "tmdb": "1247154",
+            "tvdbslug": "young-royals-forever",
+            "tvdb": "354720"
+          }
+        },
+        "_type": "movies"
+      },
+      {
+        "added_to_watchlist_at": "2026-07-04T22:42:54Z",
+        "last_watched_at": "2026-03-16T00:00:00Z",
+        "user_rated_at": null,
+        "user_rating": null,
+        "status": "completed",
+        "watched_episodes_count": 0,
+        "total_episodes_count": 0,
+        "not_aired_episodes_count": 0,
+        "movie": {
+          "title": "Bullet Train Explosion",
+          "poster": "17/1782345758520b63d3",
+          "year": 2025,
+          "ids": {
+            "simkl": 2438163,
+            "slug": "bullet-train-explosion",
+            "imdb": "tt33452974",
+            "letterslug": "the-bullet-train-1",
+            "traktmslug": "bullet-train-explosion-2025",
+            "mdlslug": "765537-shinkansen-daibakuha",
+            "tmdb": "1276073",
+            "tvdbslug": "bullet-train-explosion",
+            "tvdb": "361918"
+          }
+        },
+        "_type": "movies"
+      },
+      {
+        "added_to_watchlist_at": "2026-07-04T22:42:54Z",
+        "last_watched_at": "2026-06-23T00:00:00Z",
+        "user_rated_at": null,
+        "user_rating": 8,
+        "status": "completed",
+        "watched_episodes_count": 0,
+        "total_episodes_count": 0,
+        "not_aired_episodes_count": 0,
+        "movie": {
+          "title": "Obsession",
+          "poster": "19/196609151de7923512",
+          "year": 2026,
+          "ids": {
+            "simkl": 2558015,
+            "slug": "obsession",
+            "imdb": "tt37287335",
+            "letterslug": "obsession-6",
+            "traktmslug": "obsession-1095879",
+            "tmdb": "1339713",
+            "tvdbslug": "obsession-369536",
+            "tvdb": "369536"
+          }
+        },
+        "_type": "movies"
+      },
+      {
+        "added_to_watchlist_at": "2026-07-04T22:42:54Z",
+        "last_watched_at": null,
+        "user_rated_at": null,
+        "user_rating": null,
+        "status": "plantowatch",
+        "watched_episodes_count": 0,
+        "total_episodes_count": 0,
+        "not_aired_episodes_count": 0,
+        "movie": {
+          "title": "Descendants of the Sun",
+          "poster": "19/198628733ffa548a6b",
+          "year": null,
+          "ids": {
+            "simkl": 2680265,
+            "slug": "descendants-of-the-sun",
+            "letterslug": "descendants-of-the-sun-1",
+            "traktmslug": "descendants-of-the-sun",
+            "tmdb": "1414006"
+          }
+        },
+        "_type": "movies"
+      },
+      {
+        "added_to_watchlist_at": "2026-07-04T22:42:54Z",
+        "last_watched_at": "2026-03-16T00:00:00Z",
+        "user_rated_at": null,
+        "user_rating": null,
+        "status": "completed",
+        "watched_episodes_count": 0,
+        "total_episodes_count": 0,
+        "not_aired_episodes_count": 0,
+        "movie": {
+          "title": "STRAW",
+          "poster": "17/178902790258ccca86",
+          "year": 2025,
+          "ids": {
+            "simkl": 2701623,
+            "slug": "straw",
+            "imdb": "tt32550101",
+            "letterslug": "straw-1",
+            "traktmslug": "straw-2025",
+            "tmdb": "1426776",
+            "tvdbslug": "straw",
+            "tvdb": "357305"
+          }
+        },
+        "_type": "movies"
+      },
+      {
+        "added_to_watchlist_at": "2026-07-04T22:42:54Z",
+        "last_watched_at": "2026-05-09T00:00:00Z",
+        "user_rated_at": null,
+        "user_rating": 6,
+        "status": "completed",
+        "watched_episodes_count": 0,
+        "total_episodes_count": 0,
+        "not_aired_episodes_count": 0,
+        "movie": {
+          "title": "Hokum",
+          "poster": "19/19738017054f755de3",
+          "year": 2026,
+          "ids": {
+            "simkl": 2707581,
+            "slug": "hokum",
+            "imdb": "tt35672862",
+            "letterslug": "hokum",
+            "traktmslug": "hokum",
+            "tmdb": "1430077",
+            "tvdbslug": "hokum",
+            "tvdb": "364267"
+          }
+        },
+        "_type": "movies"
+      },
+      {
+        "added_to_watchlist_at": "2026-07-04T22:42:54Z",
+        "last_watched_at": null,
+        "user_rated_at": null,
+        "user_rating": null,
+        "status": "plantowatch",
+        "watched_episodes_count": 0,
+        "total_episodes_count": 0,
+        "not_aired_episodes_count": 0,
+        "movie": {
+          "title": "Celebrity",
+          "poster": null,
+          "year": null,
+          "ids": {
+            "simkl": 2853279,
+            "slug": "celebrity"
+          }
+        },
+        "_type": "movies"
+      },
+      {
+        "added_to_watchlist_at": "2026-07-04T22:42:54Z",
+        "last_watched_at": null,
+        "user_rated_at": null,
+        "user_rating": 7,
+        "status": "plantowatch",
+        "watched_episodes_count": 0,
+        "total_episodes_count": 0,
+        "not_aired_episodes_count": 0,
+        "movie": {
+          "title": "Adolescence",
+          "poster": "18/189511595b6115ea6e",
+          "year": null,
+          "ids": {
+            "simkl": 2933759,
+            "slug": "adolescence",
+            "letterslug": "adolescence-1",
+            "tmdb": "1580015"
+          }
+        },
+        "_type": "movies"
+      },
+      {
+        "added_to_watchlist_at": "2026-07-04T22:42:54Z",
+        "last_watched_at": "2026-03-16T00:00:00Z",
+        "user_rated_at": null,
+        "user_rating": 9,
+        "status": "completed",
+        "watched_episodes_count": 0,
+        "total_episodes_count": 0,
+        "not_aired_episodes_count": 0,
+        "movie": {
+          "title": "HEART CORE",
+          "poster": "19/196937019fd0bcc97a",
+          "year": 2026,
+          "ids": {
+            "simkl": 3050347,
+            "slug": "heart-core",
+            "letterslug": "heart-core",
+            "tmdb": "1651702"
+          }
+        },
+        "_type": "movies"
+      },
+      {
+        "added_to_watchlist_at": "2026-07-04T22:42:54Z",
+        "last_watched_at": null,
+        "user_rated_at": null,
+        "user_rating": null,
+        "status": "plantowatch",
+        "watched_episodes_count": 0,
+        "total_episodes_count": 0,
+        "not_aired_episodes_count": 0,
+        "movie": {
+          "title": "While you were sleeping",
+          "poster": "19/1986244153deb18d4b",
+          "year": null,
+          "ids": {
+            "simkl": 3089861,
+            "slug": "while-you-were-sleeping"
+          }
+        },
+        "_type": "movies"
+      }
+    ],
+    "anime": [
+      {
+        "added_to_watchlist_at": "2026-07-04T22:42:54Z",
+        "last_watched_at": "2026-03-16T00:00:00Z",
+        "user_rated_at": null,
+        "user_rating": null,
+        "status": "completed",
+        "last_watched": null,
+        "next_to_watch": null,
+        "watched_episodes_count": 1,
+        "total_episodes_count": 1,
+        "not_aired_episodes_count": 0,
+        "show": {
+          "title": "Ponyo on the Cliff by the Sea",
+          "poster": "11/113494327a75d72ca6",
+          "year": 2008,
+          "ids": {
+            "simkl": 37317,
+            "slug": "gake-no-ue-no-ponyo",
+            "mal": "2890",
+            "imdb": "tt0876563",
+            "tmdb": "12429",
+            "anilist": "2890",
+            "kitsu": "2624",
+            "letterslug": "ponyo",
+            "traktmslug": "ponyo-2008",
+            "anidb": "5107",
+            "tvdbslug": "ponyo",
+            "tvdb": "370"
+          }
+        },
+        "anime_type": "movie",
+        "_type": "anime"
+      },
+      {
+        "added_to_watchlist_at": "2026-07-04T22:42:54Z",
+        "last_watched_at": "2026-03-16T00:00:00Z",
+        "user_rated_at": null,
+        "user_rating": null,
+        "status": "completed",
+        "last_watched": null,
+        "next_to_watch": null,
+        "watched_episodes_count": 1,
+        "total_episodes_count": 1,
+        "not_aired_episodes_count": 0,
+        "show": {
+          "title": "Spirited Away",
+          "poster": "11/113499901b7a466011",
+          "year": 2001,
+          "ids": {
+            "simkl": 39079,
+            "slug": "sen-to-chihiro-no-kamikakushi",
+            "mal": "199",
+            "imdb": "tt0245429",
+            "tmdb": "129",
+            "anilist": "199",
+            "kitsu": "176",
+            "letterslug": "spirited-away",
+            "traktmslug": "spirited-away-2001",
+            "mdlslug": "807794-spirited-away",
+            "anidb": "112",
+            "tvdb": "276",
+            "tvdbslug": "spirited-away"
+          }
+        },
+        "anime_type": "movie",
+        "_type": "anime"
+      },
+      {
+        "added_to_watchlist_at": "2026-07-04T22:42:54Z",
+        "last_watched_at": "2026-03-16T00:00:00Z",
+        "user_rated_at": null,
+        "user_rating": null,
+        "status": "completed",
+        "last_watched": null,
+        "next_to_watch": null,
+        "watched_episodes_count": 1,
+        "total_episodes_count": 1,
+        "not_aired_episodes_count": 0,
+        "show": {
+          "title": "Anne of Green Gables: The Road to Green Gables",
+          "poster": "11/1115903495aaecf939",
+          "year": 2010,
+          "ids": {
+            "simkl": 41576,
+            "slug": "akage-no-anne-green-gables-e-no-michi",
+            "mal": "8950",
+            "imdb": "tt2555422",
+            "tmdb": "373394",
+            "anilist": "8950",
+            "kitsu": "5544",
+            "letterslug": "anne-of-green-gables-road-to-green-gables",
+            "traktmslug": "anne-of-green-gables-road-to-green-gables-2010",
+            "anidb": "7526",
+            "tvdbslug": "anne-of-green-gables-road-to-green-gables",
+            "tvdb": "56950"
+          }
+        },
+        "anime_type": "movie",
+        "_type": "anime"
+      },
+      {
+        "added_to_watchlist_at": "2026-07-04T22:42:54Z",
+        "last_watched_at": "2026-03-16T00:00:00Z",
+        "user_rated_at": null,
+        "user_rating": null,
+        "status": "completed",
+        "last_watched": null,
+        "next_to_watch": null,
+        "watched_episodes_count": 1,
+        "total_episodes_count": 1,
+        "not_aired_episodes_count": 0,
+        "show": {
+          "title": "The Case of Hana & Alice",
+          "poster": "11/11362582b16efad780",
+          "year": 2015,
+          "ids": {
+            "simkl": 427404,
+            "slug": "hana-to-alice-satsujin-jiken",
+            "mal": "27969",
+            "imdb": "tt4125300",
+            "tmdb": "311054",
+            "anilist": "20908",
+            "kitsu": "9978",
+            "letterslug": "the-case-of-hana-alice",
+            "traktmslug": "the-case-of-hana-alice-2015",
+            "anidb": "10886",
+            "tvdbslug": "the-case-of-hana-alice",
+            "tvdb": "15123"
+          }
+        },
+        "anime_type": "movie",
+        "_type": "anime"
+      },
+      {
+        "added_to_watchlist_at": "2026-07-04T22:42:54Z",
+        "last_watched_at": "2026-03-16T00:00:00Z",
+        "user_rated_at": null,
+        "user_rating": null,
+        "status": "completed",
+        "last_watched": null,
+        "next_to_watch": null,
+        "watched_episodes_count": 1,
+        "total_episodes_count": 1,
+        "not_aired_episodes_count": 0,
+        "show": {
+          "title": "A Silent Voice",
+          "poster": "11/11348976e6601640a7",
+          "year": 2016,
+          "ids": {
+            "simkl": 436948,
+            "slug": "eiga-koe-no-katachi",
+            "mal": "28851",
+            "imdb": "tt5323662",
+            "tmdb": "378064",
+            "anilist": "20954",
+            "kitsu": "10028",
+            "letterslug": "a-silent-voice",
+            "traktmslug": "a-silent-voice-the-movie-2016",
+            "anidb": "10937",
+            "tvdbslug": "a-silent-voice",
+            "tvdb": "894"
+          }
+        },
+        "anime_type": "movie",
+        "_type": "anime"
+      },
+      {
+        "added_to_watchlist_at": "2026-07-04T22:42:54Z",
+        "last_watched_at": "2026-03-16T00:00:00Z",
+        "user_rated_at": null,
+        "user_rating": null,
+        "status": "completed",
+        "last_watched": null,
+        "next_to_watch": null,
+        "watched_episodes_count": 1,
+        "total_episodes_count": 1,
+        "not_aired_episodes_count": 0,
+        "show": {
+          "title": "Your Name.",
+          "poster": "31/3114820930656c5ed",
+          "year": 2016,
+          "ids": {
+            "simkl": 543146,
+            "slug": "kimi-no-na-wa",
+            "imdb": "tt5311514",
+            "mal": "32281",
+            "anilist": "21519",
+            "kitsu": "11614",
+            "letterslug": "your-name",
+            "tmdb": "372058",
+            "traktmslug": "your-name-2016",
+            "anidb": "11829",
+            "tvdbslug": "your-name",
+            "tvdb": "197"
+          }
+        },
+        "anime_type": "movie",
+        "_type": "anime"
+      },
+      {
+        "added_to_watchlist_at": "2026-07-04T22:42:54Z",
+        "last_watched_at": null,
+        "user_rated_at": null,
+        "user_rating": null,
+        "status": "plantowatch",
+        "last_watched": null,
+        "next_to_watch": "E1",
+        "watched_episodes_count": 0,
+        "total_episodes_count": 1,
+        "not_aired_episodes_count": 0,
+        "show": {
+          "title": "Look Back",
+          "poster": "16/164899157d6a4abf40",
+          "year": 2024,
+          "ids": {
+            "simkl": 2375584,
+            "slug": "look-back",
+            "mal": "58125",
+            "tmdb": "1244492",
+            "anilist": "174788",
+            "kitsu": "48541",
+            "imdb": "tt31711040",
+            "traktmslug": "look-back-2024",
+            "anidb": "18493",
+            "tvdbslug": "look-back",
+            "tvdb": "353943"
+          }
+        },
+        "anime_type": "movie",
+        "_type": "anime"
+      }
+    ]
+  }
+}
